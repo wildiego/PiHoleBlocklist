@@ -23,15 +23,15 @@ mobileanalytics.us-east-1.amazonaws.com
 #avs.eu.amazonalexa.com
 d3p8zr0ffa9t17.cloudfront.net
 
-# updates
-#softwareupdates.amazon.com
-#d3h5bk8iotgjvw.cloudfront.net
-#d63r8xi1zu867.cloudfront.net
-#d1s31zyz7dcc2d.cloudfront.net
-#d3a510xmpll7o6.cloudfront.net
-#d21m0ezw6fosyw.cloudfront.net
-#d3uf8d0lloeluq.cloudfront.net
-#d2n99fpfeqbnhk.cloudfront.net
+# updates -- to avoid updates
+softwareupdates.amazon.com
+d3h5bk8iotgjvw.cloudfront.net
+d63r8xi1zu867.cloudfront.net
+d1s31zyz7dcc2d.cloudfront.net
+d3a510xmpll7o6.cloudfront.net
+d21m0ezw6fosyw.cloudfront.net
+d3uf8d0lloeluq.cloudfront.net
+d2n99fpfeqbnhk.cloudfront.net
 
 # ntp / time
 #ftv-smp.ntp-fireos.com
